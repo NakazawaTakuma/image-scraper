@@ -2,6 +2,8 @@
 
 A Selenium-based Python script to automatically download images from Google Images based on a list of search terms.
 
+📄 日本語版はこちら → [README.ja.md](README.ja.md)
+
 ## Features
 
 - Reads search terms from a text file (`items_list.txt`).
