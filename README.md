@@ -19,12 +19,11 @@ A Selenium-based Python script to automatically download images from Google Imag
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/<your-username>/image-scraper.git
    cd image-scraper
    ```
-
-````
 
 2. Install dependencies:
 
@@ -55,4 +54,7 @@ python main.py --input items_list.txt --output images --max-images 30 --suffix "
 ## License
 
 MIT License
-````
+
+```
+
+```
